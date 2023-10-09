@@ -4,5 +4,5 @@
  * Sending the Data thru NN
 
 
-#Project 2 Video Data Analytics
+#Project 2 :  Video Data Analytics
   * Collecting logs from boring tool
