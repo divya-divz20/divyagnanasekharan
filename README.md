@@ -5,4 +5,4 @@
 
 
 #Project 2: Video Data Analytics
- *collecting logs from boring tool
+  *collecting logs from boring tool
